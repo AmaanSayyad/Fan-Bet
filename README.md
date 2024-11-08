@@ -22,7 +22,7 @@ The sports industry faces major challenges in engaging long-term fans, creating 
 
 - **Tangible Rewards for Participation**: FanBet rewards fan contributions in real, valuable ways. From betting rewards to exclusive digital memorabilia, fans are incentivized to participate in content creation, engage with community events, and support their teams, with rewards tied directly to their involvement.
 
-![Screenshot 2024-11-08 104616.png](https://cdn.dorahacks.io/static/files/1930a3bdc5dd6d454cae5ae4cd3856cf.png)
+![Screenshot 2024-11-08 104616](https://github.com/user-attachments/assets/5f1e6061-95a7-4b4c-8c59-e51060150e9e)
 
 ---
 
